@@ -42,11 +42,11 @@ $(document).ready(function(){
 
     var startLeft = getRandomArbitrary(0,screenWidth);
 
-    var timeRun = getRandomArbitrary(4000,6000);
+    var timeRun = getRandomArbitrary(7000,9000);
     var opacityR = Math.random() * (1 - 0.2) + 0.2;
-    var sizeR = getRandomArbitrary(5,20);
+    var sizeR = getRandomArbitrary(50,20);
 
-    var endLeft = getRandomArbitrary(startLeft-100,startLeft+100);
+    var endLeft = getRandomArbitrary(startLeft-1500,startLeft+1500);
 
     var snow = document.createElement('span');
 

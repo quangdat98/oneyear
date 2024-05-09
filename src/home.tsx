@@ -3,14 +3,18 @@ import "./homeCss.css";
 import "./homeScript.js";
 import "./bootstrap.css";
 import "./awesome.css";
+import image2 from './images/image2.png'; 
+import image3 from './images/image3.png';
+import image4 from './images/image4.png';
 
 export const home = (props) => {
   return (
     <div className="body">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
       <div className="animation-element bounce-up">
         <div className="paral paralsec jumbotron bounce-up" id="about">
           <div className="desc">
-            <span className="title">Mr. and Mrs. John Doe</span>
+            <span className="title">Cảm Ơn Tể đã đồng hành cùng Bún 1 năm qua</span>
           </div>
         </div>
       </div>
@@ -24,7 +28,7 @@ export const home = (props) => {
           <div className="row">
             <div className="col-md-6">
               <img
-                src="https://images.unsplash.com/photo-1463097769237-a14ad08ff22b?ixlib=rb-0.3.5&s=d50252ca609fd8dac53c9782ba9f7795&auto=format&fit=crop&w=1489&q=80"
+                src={image2}
                 alt="Bride"
                 className="thumb"
               />
@@ -63,7 +67,7 @@ export const home = (props) => {
             </div>
             <div className="col-md-6">
               <img
-                src="https://images.unsplash.com/photo-1490006017569-465ccb897ba1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e669bc7ae2d5682aae15610470b44efb&auto=format&fit=crop&w=1350&q=80"
+                src={image3}
                 alt="Groom"
                 className="thumb"
               />
