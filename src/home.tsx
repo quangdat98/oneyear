@@ -2,10 +2,11 @@ import React from "react";
 import "./homeCss.css";
 import "./homeScript.js";
 import "./bootstrap.css";
+import "./awesome.css";
 
 export const home = (props) => {
   return (
-    <>
+    <div className="body">
       <div className="animation-element bounce-up">
         <div className="paral paralsec jumbotron bounce-up" id="about">
           <div className="desc">
@@ -90,7 +91,7 @@ export const home = (props) => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
