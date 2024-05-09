@@ -1,5 +1,4 @@
 import $ from "jquery";
-import './slicebox.js';
 
 var $animation_elements = $(".animation-element");
 var $window = $(window);
