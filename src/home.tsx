@@ -5,6 +5,19 @@ import "./bootstrap.css";
 import image2 from "./images/image2.png";
 import image3 from "./images/image3.png";
 
+import image6 from "./images/image6.png";
+import image7 from "./images/image7.png";
+import image8 from "./images/image8.png";
+import image9 from "./images/image9.png";
+import image10 from "./images/image10.png";
+import image11 from "./images/image11.png";
+import image12 from "./images/image12.png";
+import image13 from "./images/image13.png";
+import image14 from "./images/image14.png";
+import image15 from "./images/image15.png";
+
+
+
 export const home = (props) => {
   const imageFoot = [];
   for (let i = 1; i <= 120; i++) {
@@ -37,63 +50,53 @@ export const home = (props) => {
             <div className="content">
               <div className="slider-content">
                 <figure className="shadow">
-                  <img
-                    src="http://www.webdesigndev.com/wp-content/uploads/2015/07/The-Ice-cavern-by-refriedspinach.jpg"
-                    alt="Slide 1"
+                    <img
+                      src={image6}
+                    />
+                </figure>
+                <figure className="shadow">
+                    <img
+                      src={image7}
+                    />  
+                </figure>
+                <figure className="shadow">
+                   <img
+                    src={image8}
                   />
                 </figure>
                 <figure className="shadow">
                   <img
-                    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8dc4a523607575.55deba70e5e71.jpg"
-                    alt="Slide 2"
+                      src={image9}
+                    />
+                </figure>
+                <figure className="shadow">
+                  <img
+                      src={image10}
+                    />
+                </figure>
+                <figure className="shadow">
+                  <img
+                    src={image11}
                   />
                 </figure>
                 <figure className="shadow">
                   <img
-                    src="https://i.pinimg.com/originals/08/b2/0f/08b20f2d451fef77cebab0ae273dd283.jpg"
-                    alt="Slide 3"
+                    src={image12}
                   />
                 </figure>
                 <figure className="shadow">
                   <img
-                    src="https://images.hdqwalls.com/wallpapers/bthumb/deer-polygon-art-8k-am.jpg"
-                    alt="Slide 4"
+                    src={image13}
                   />
                 </figure>
                 <figure className="shadow">
                   <img
-                    src="http://www.webdesigndev.com/wp-content/uploads/2015/07/The-Ice-cavern-by-refriedspinach.jpg"
-                    alt="Slide 5"
+                    src={image14}
                   />
                 </figure>
                 <figure className="shadow">
                   <img
-                    src="https://cdn.wallpapersafari.com/86/48/wHpFRg.jpg"
-                    alt="Slide 6"
-                  />
-                </figure>
-                <figure className="shadow">
-                  <img
-                    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e2c7758404315.560bcaeb3ce4e.jpg"
-                    alt="Slide 7"
-                  />
-                </figure>
-                <figure className="shadow">
-                  <img
-                    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8dc4a523607575.55deba70e5e71.jpg"
-                    alt="Slide 8"
-                  />
-                </figure>
-                <figure className="shadow">
-                  <img
-                    src="https://images.hdqwalls.com/wallpapers/bthumb/deer-polygon-art-8k-am.jpg"
-                    alt="Slide 9"
-                  />
-                </figure>
-                <figure className="shadow">
-                  <img
-                    src="https://images.hdqwalls.com/wallpapers/bthumb/deer-polygon-art-8k-am.jpg"
-                    alt="Slide 10"
+                    src={image15}
                   />
                 </figure>
               </div>
@@ -171,7 +174,7 @@ export const home = (props) => {
           />
           <div className="perspective">
             <div className="content-div">
-              <h1>Abhishek</h1>
+              <h1>Yêu vợ hâmm</h1>
             </div>
             <div className="img-cylinder">{imageFoot}</div>
           </div>

@@ -48,10 +48,6 @@ hr {
     letter-spacing: 2px;
 }
 
-.paralsec1 {
-    background-image: url("../src/images/image5.png");
-}
-
 .jumbotron {
     margin-bottom: 0;
     border-radius: 0;
@@ -214,8 +210,8 @@ body{
 .slideshow{
   margin: 0 auto;
   padding-top: 50px;
-  height: 700px;
-  background: #444;
+  height: 450px;
+  background: antiquewhite;
   perspective: 1000px;
 }
 .content{
