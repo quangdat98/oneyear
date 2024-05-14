@@ -24,6 +24,131 @@ export const home = (props) => {
     require('./images/image1.png'),
     require('./images/image2.png'),
     require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+    require('./images/image8.png'),
+    require('./images/image9.png'),
+    require('./images/image10.png'),
+    require('./images/image11.png'),
+    require('./images/image12.png'),
+    require('./images/image13.png'),
+    require('./images/image14.png'),
+    require('./images/image15.png'),
+    require('./images/image16.png'),
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    require('./images/image3.png'),
+    require('./images/image4.png'),
+    require('./images/image5.png'),
+    require('./images/image6.png'),
+    require('./images/image7.png'),
+
     // Thêm các ảnh khác nếu cần
   ];
 
@@ -132,14 +257,7 @@ const imageFoot = images.map((image, i) => (
             </div>
             <div className="col-md-6">
               <p className="info">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                feugiat venenatis risus sit amet mattis. Sed sagittis accumsan
-                dapibus. Quisque et justo non massa efficitur consequat. Proin
-                accumsan enim sed fermentum elementum. Quisque maximus rutrum
-                nunc, quis lacinia eros porta eu. Praesent odio orci,
-                sollicitudin a mattis vitae, commodo sit amet felis. Sed
-                condimentum facilisis feugiat. Curabitur rhoncus pharetra enim,
-                vel vehicula ipsum ullamcorper eget.
+                Quan tâm là yếu tố cốt lõi giúp mối quan hệ trở nên bền vững và hạnh phúc Tể ạ. Quan tâm không chỉ dừng lại ở những lời nói yêu thương mà còn thể hiện qua hành động nhỏ nhặt hàng ngày. Một cái nắm tay ấm áp, một tin nhắn chúc buổi sáng tốt lành hay đơn giản là lắng nghe đối phương khi họ gặp khó khăn đều là những biểu hiện của sự quan tâm chân thành. Quan tâm còn đòi hỏi sự thấu hiểu và tôn trọng lẫn nhau, chấp nhận những khác biệt và sẵn sàng cùng nhau vượt qua thử thách. Cảm ơn Tể yêu luôn quan tâm Bún ạ :)))
               </p>
             </div>
           </div>
@@ -148,18 +266,11 @@ const imageFoot = images.map((image, i) => (
 
       <div className="animation-element bounce-up">
         <div className="jumbotron container-fluid">
-          <h1>Giận Dỗi</h1>
+          <h1>Tương Lai</h1>
           <div className="row">
             <div className="col-md-6">
               <p className="info">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                feugiat venenatis risus sit amet mattis. Sed sagittis accumsan
-                dapibus. Quisque et justo non massa efficitur consequat. Proin
-                accumsan enim sed fermentum elementum. Quisque maximus rutrum
-                nunc, quis lacinia eros porta eu. Praesent odio orci,
-                sollicitudin a mattis vitae, commodo sit amet felis. Sed
-                condimentum facilisis feugiat. Curabitur rhoncus pharetra enim,
-                vel vehicula ipsum ullamcorper eget.
+              Trong một mối quan hệ, việc nhìn về tương lai cùng nhau cho thấy sự nghiêm túc và mong muốn gắn bó lâu dài. Những cuộc trò chuyện về tương lai giúp cả hai hiểu rõ hơn về mong muốn, mục tiêu và giá trị của nhau.Tương lai còn là khoảng thời gian để cả hai cùng trưởng thành, phát triển bản thân và học cách yêu thương nhau nhiều hơn. Trong quá trình đó, họ học cách tha thứ, hiểu và tôn trọng lẫn nhau. 
               </p>
             </div>
             <div className="col-md-6">
