@@ -19,19 +19,24 @@ import image15 from "./images/image15.png";
 
 
 export const home = (props) => {
-  const imageFoot = [];
-  for (let i = 1; i <= 120; i++) {
-    imageFoot.push(
-      <div
-        key={i}
-        className="image"
-        style={{
-          "--i": i,
-          "--url": `url('https://picsum.photos/200?v=${i}')`,
-        }}
-      ></div>
-    );
-  }
+ 
+  const images = [
+    require('./images/image1.png'),
+    require('./images/image2.png'),
+    require('./images/image3.png'),
+    // Thêm các ảnh khác nếu cần
+  ];
+
+const imageFoot = images.map((image, i) => (
+  <div
+    key={i}
+    className="image"
+    style={{
+      "--i": i + 1,
+      "--url": `url(${image})`,
+    }}
+  ></div>
+));
 
   return (
     <div className="body">
